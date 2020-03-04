@@ -2,3 +2,8 @@ body{
   background-image: url("background.jpg");
   color: white;
 }
+
+.pfp{
+  max-width:20%;
+  height:auto;
+}
